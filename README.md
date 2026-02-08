@@ -33,6 +33,9 @@ The waveforms demonstrate the transition from AC to DC:
 
 ### 🧮 Mathematical Model
 The average output voltage ($V_{dc}$) is calculated as:
-$$V_{dc} = \frac{3\sqrt{3}V_m}{\pi} \cos(\alpha)$$
+
+$$
+V_{dc} = \frac{3\sqrt{3}V_m}{\pi} \cos(\alpha)
+$$
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
