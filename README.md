@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd-year B.Tech Electrical Engineering student<br>at KDK College of Engineering, Nagpur. <br>My core interests lie at the intersection of Power Electronics, <br>Industrial Automation (PLC/SCADA), and Data Science. <br>I am passionate about building efficient electrical systems and <br>leveraging data-driven insights to solve complex engineering problems. <br>Currently, I am expanding my expertise through projects in VLSI design and <br>participating in the Aspire Leaders Program (Cohort 1).
+I am a 3rd-year B.Tech Electrical Engineering student at KDK College of Engineering, Nagpur. <br>My core interests lie at the intersection of Power Electronics,Industrial Automation (PLC/SCADA), and Data Science. <br>I am passionate about building efficient electrical systems and leveraging data-driven insights to solve complex engineering problems. <br>Currently, I am expanding my expertise through projects in VLSI design and participating in the Aspire Leaders Program (Cohort 1).
 
 
 ## 🌐 Socials:
