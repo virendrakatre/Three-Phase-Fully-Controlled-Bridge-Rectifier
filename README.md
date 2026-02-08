@@ -16,7 +16,8 @@ I am a 3rd-year B.Tech Electrical Engineering student<br>at KDK College of Engin
 [![](https://visitcount.itsvg.in/api?id=virendrakatre&icon=0&color=0)](https://visitcount.itsvg.in)
 ## ⚡ Project Overview: 3-Phase Fully Controlled Rectifier
 This repository contains a **MATLAB/Simulink** model of a 6-pulse thyristor bridge. It is designed to convert 3-phase AC into a controllable DC output by adjusting the firing angle ($\alpha$).
-
+### ⚡ Circuit Diagram
+![Circuit Diagram](Circuit%20Diagram.jpg)
 ### 🔍 Key Features:
 * **[ ](start_span)Circuit Topology:** 6-Thyristor bridge configuration for full-wave rectification[ ](end_span).
 * **[ ](start_span)Control:** Uses six synchronized **Pulse Generators** for precise SCR triggering[ ](end_span).
@@ -27,6 +28,8 @@ The waveforms demonstrate the transition from AC to DC:
 * **[ ](start_span)Input Voltage:** Shows the three-phase sinusoidal input with switching transients[ ](end_span).
 * **[ ](start_span)Output Voltage (Yellow):** Shows the 6-pulse rectified DC waveform[ ](end_span).
 * **[ ](start_span)Load Current (Purple):** Shows a smoothed DC current due to the inductive load[ ](end_span).
+### 📊 Detailed Analysis
+👉 [Download Full Waveform Result (PDF)](Waveform%20result.pdf)
 
 ### 🧮 Mathematical Model
 The average output voltage ($V_{dc}$) is calculated as:
