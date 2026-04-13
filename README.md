@@ -3,7 +3,7 @@ I am a 3rd-year B.Tech Electrical Engineering student at KDK College of Engineer
 
 
 ##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/virendrakatr](https://www.linkedin.com/in/virendrakatre ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virendra.s.katre@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virendrakatre  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virendra.s.katre@gmail.com) 
 
 # Tech Stack:
 ![Matplotlib](https://img.shields.io/badge/MATLAB-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
